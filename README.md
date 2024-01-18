@@ -1,5 +1,4 @@
 ### Hello there 👋
 
-Your friendly developer here 🧑🏻‍💻
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cwleong)
+Passionate software engineer @ [whiteroom](https://www.whiteroom.work/). 
+Coding like my life depends on it...cause it does. 
